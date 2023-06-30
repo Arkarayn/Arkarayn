@@ -1,3 +1,5 @@
+<div style="text-align: center;" > <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljimj8xo002508mj1jcrkhh6/stats?cursusId=21&coalitionId=285" alt="gmattei's 42 stats" /></a> </div>
+
 # 💫 About Me:
 🌱 I’m currently learning at 42Firenze<br>Cyberpunk style addict :D
 
