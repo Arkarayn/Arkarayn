@@ -18,10 +18,9 @@ I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a pas
 - Cats and animals in general (jk cats are the best)
 - Everything (literally) cyberpunk or (sci-fi & fantasy) themed "needed the brackets for priorities"
 
-## 📫 How to Reach Me and Links: 
-- [Email](mailto:giovanni.mattei.job@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/giovanni-mattei-7a74b8265/)
+## 📫 How to Reach Me and Links
 
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+<a href="https://github.com/JaeSeoKim/badge42"><img width="100%" src="https://badge42.vercel.app/api/v2/cljimj8xo002508mj1jcrkhh6/stats?cursusId=21&coalitionId=285" alt="gmattei's 42 stats" /></a>
 
 ## 🎒 My Favourite Projects till now :D
