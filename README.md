@@ -19,6 +19,6 @@ I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a pas
 
 ## 📫 How to Reach Me and Links
 
-<p><a href="www.linkedin.com/in/giovanni-mattei-7a74b8265/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><p>click here if you want to experience <a href="https://github.com/Mattei-Giovanni">RECURSION</a></p><p>If you want to help me a lil :D <a href="ko-fi.com/arkarayn"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a></p></p>
+<p><a href="www.linkedin.com/in/giovanni-mattei-7a74b8265/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><p>click here if you want to experience <a href="https://github.com/Mattei-Giovanni">RECURSION</a></p><p></p><a href="ko-fi.com/arkarayn"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a>  If you want to help me a lil :D</p></p>
 
 ## 🎒 My Favourite Projects till now :D
