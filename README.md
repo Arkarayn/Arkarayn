@@ -1,6 +1,7 @@
 # Hello, Universe! I'm Giovanni Mattei 👋
 
-![Banner](./images/cyberpunk-city-banner.gif)
+<img src="./images/cyberpunk-city-banner.gif" alt="Banner" style="width: 1000px; height: auto;" />
+
 
 I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a passionate quest to learn all things, one bug at a time.
 
