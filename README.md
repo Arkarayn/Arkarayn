@@ -2,7 +2,6 @@
 
 <img src="./images/cyberpunk-city-banner.gif" alt="Banner" style="width: 1000px; height: auto;" />
 
-
 I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a passionate quest to learn all things, one bug at a time.
 
 ## 🎮 My Current Hobbies
@@ -20,7 +19,6 @@ I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a pas
 
 ## 📫 How to Reach Me and Links
 
-
-<a href="https://github.com/JaeSeoKim/badge42"><img width="100%" src="https://badge42.vercel.app/api/v2/cljimj8xo002508mj1jcrkhh6/stats?cursusId=21&coalitionId=285" alt="gmattei's 42 stats" /></a>
+<p><a href="www.linkedin.com/in/giovanni-mattei-7a74b8265/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><p>click here if you want to experience <a href="https://github.com/Mattei-Giovanni">RECURSION</a></p><p>If you want to help me a lil :D <a href="ko-fi.com/arkarayn"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a></p></p>
 
 ## 🎒 My Favourite Projects till now :D
