@@ -1,17 +1,26 @@
-<img src="https://gifdb.com/images/high/among-us-sussy-boi-lzcritilishym8o8.gif">
+# Hello, Universe! I'm Giovanni Mattei 👋
 
-# 💫 About Me:
-🌱 I’m currently learning at 42Firenze<br>Cyberpunk style addict :D
+![Banner](link-to-your-banner-image)
 
-# 💻 Tech Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a passionate quest to learn all things, one bug at a time.
 
-[![](https://visitcount.itsvg.in/api?id=gmattei&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎮 My Current Hobbies
 
-[![gmattei's 42 stats](https://badge42.vercel.app/api/v2/cljimj8xo002508mj1jcrkhh6/stats?cursusId=21&coalitionId=285)](https://github.com/JaeSeoKim/badge42)
+- Videogames, both playing and ""creating"" (trying at least)
+- Anime & Manga but I prefer Light Novels
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arkarayn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovanni-mattei-7a74b8265) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Arkarayn_) 
+## 🌌 Other Things I Quietly Appreciate
 
-  ### 💞Lil' Secret:
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/arkarayn) 
+- The beauty of space and whatever mysteries it holds
+- Music, I honestly think that I couldn't live without it
+- The quiet peace of nature at its finest
+- Cats and animals in general (jk cats are the best)
+- Everything (literally) cyberpunk or (sci-fi & fantasy) themed "needed the brackets for priorities"
+
+## 📫 How to Reach Me and Links: 
+- [Email](mailto:giovanni.mattei.job@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/giovanni-mattei-7a74b8265/)
+
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🎒 My Favourite Projects till now :D
