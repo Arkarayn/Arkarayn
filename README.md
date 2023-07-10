@@ -23,4 +23,4 @@ I'm a beginner developer from Italy, quietly studying at 42Firenze. I'm on a pas
 
 <p><a href="www.linkedin.com/in/giovanni-mattei-7a74b8265/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="ko-fi.com/arkarayn"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a></p></p>
 
-## 🎒 My Favourite Projects till now :D
+### 🎒 My Favourite Projects till now :D
