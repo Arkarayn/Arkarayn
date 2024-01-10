@@ -4,7 +4,7 @@
 
 <img src="./images/cyberpunk-city-banner.gif" alt="Banner" style="width: 1000px; height: auto;" />
 
-I'm a software developer from Italy, quietly studying at 42Firenze. I'm on a passionate quest to learn all things, one bug at a time.
+I'm a software developer from Italy, quietly studying at 42Firenze. I'm on a passionate quest to learn all things.
 
 ## 🎮 My Current Hobbies
 
