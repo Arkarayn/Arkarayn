@@ -4,12 +4,14 @@
 
 <img src="./images/cyberpunk-city-banner.gif" alt="Banner" style="width: 1000px; height: auto;" />
 
-I'm a software developer from Italy, quietly studying at 42Firenze. I'm on a passionate quest to learn all things.
+## 🏫Current Status
+### Happily studying in 42Firenze, learning a bit of everything with a focus on C and C++
 
-## 🎮 My Current Hobbies
-
-- Videogames, both playing and ""creating"" (trying at least)
-- Anime & Manga but I prefer Light Novels
+## 📖 Self Learning
+### My latests interests
+- Quantum computing
+- Creating a full stack personal project
+- Managing my personal website and portfolio
 
 ## 🌌 Other Things I Quietly Appreciate
 
