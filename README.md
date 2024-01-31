@@ -16,10 +16,9 @@
 ## 🌌 Other Things I Quietly Appreciate
 
 - The beauty of space and whatever mysteries it holds
-- Music, I honestly think that I couldn't live without it
+- Music, I honestly think I couldn't live without it
 - The quiet peace of nature at its finest
-- Cats and animals in general (jk cats are the best)
-- Everything (literally) cyberpunk or (sci-fi & fantasy) themed "needed the brackets for priorities"
+- Sci-fi & Cyberpunk
 
 ## 📫 How to Reach Me and Links
 
