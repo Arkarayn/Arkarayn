@@ -9,7 +9,8 @@
 
 ## 📖 Self Learning
 ### My latests interests
-- Quantum computing
+- Creating apps
+- Generative interactive art
 - Creating a full stack personal project
 - Managing my personal website and portfolio
 
