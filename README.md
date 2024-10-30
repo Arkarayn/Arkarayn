@@ -1,6 +1,6 @@
 # Hello, Universe! I'm Giovanni Mattei 👋
 
-<p>Click to experience --> <a href="https://github.com/Mattei-Giovanni">RECURSION</p></a>
+<p>Click to experience --> <a href="https://github.com/Arkarayn">RECURSION</p></a>
 
 <img src="./images/cyberpunk-city-banner.gif" alt="Banner" style="width: 1000px; height: auto;" />
 
