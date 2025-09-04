@@ -5,7 +5,7 @@
 <img src="./images/cyberpunk-city-banner.gif" alt="Banner" style="width: 1000px; height: auto;" />
 
 ## 🏫Current Status
-### Happily studying in 42Firenze, learning a bit of everything with a focus on C, C++ and linux
+### Happily studying, learning a bit of everything with a focus on C, C++ and linux
 
 ## 📖 Self Learning
 ### My latests interests
